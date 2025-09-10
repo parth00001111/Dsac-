@@ -1,0 +1,8 @@
+it is standard template library which provides a collction
+ of template classses and functions that offer commom data
+  structures and algorithms t make programming more efficient
+
+
+  A vector in c++ is a dynamic array that can grow or shrink in size
+  , making it a versatile and efficient data structure for storing
+  and  manipulating sequences of elements.
